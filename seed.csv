@@ -1,0 +1,6 @@
+Nome,Descricao,Preco,Categoria,Estoque,Ativo,DataCriacao,DataAtualizacao
+Smartphone Demo,Celular para demonstração da API,1500.99,Eletrônicos,10,true,2025-10-16T12:00:00.000Z,2025-10-16T12:00:00.000Z
+Notebook Pro,Laptop para trabalho e estudos,4500.00,Informática,5,true,2025-10-16T12:05:00.000Z,2025-10-16T12:05:00.000Z
+Fone Bluetooth,Fone sem fio com cancelamento de ruído,299.90,Acessórios,25,true,2025-10-16T12:10:00.000Z,2025-10-16T12:10:00.000Z
+Capa de Celular,Capa resistente para smartphones,49.90,Acessórios,100,true,2025-10-16T12:15:00.000Z,2025-10-16T12:15:00.000Z
+

@@ -1,0 +1,41 @@
+{
+  "records": [
+    {
+      "fields": {
+        "Nome": "Smartphone Demo",
+        "Descricao": "Celular para demonstração da API",
+        "Preco": 1500.99,
+        "Categoria": "Eletrônicos",
+        "Estoque": 10,
+        "Ativo": true,
+        "DataCriacao": "2025-10-16T12:00:00.000Z",
+        "DataAtualizacao": "2025-10-16T12:00:00.000Z"
+      }
+    },
+    {
+      "fields": {
+        "Nome": "Notebook Pro",
+        "Descricao": "Laptop para trabalho e estudos",
+        "Preco": 4500.0,
+        "Categoria": "Informática",
+        "Estoque": 5,
+        "Ativo": true,
+        "DataCriacao": "2025-10-16T12:05:00.000Z",
+        "DataAtualizacao": "2025-10-16T12:05:00.000Z"
+      }
+    },
+    {
+      "fields": {
+        "Nome": "Fone Bluetooth",
+        "Descricao": "Fone sem fio com cancelamento de ruído",
+        "Preco": 299.9,
+        "Categoria": "Acessórios",
+        "Estoque": 25,
+        "Ativo": true,
+        "DataCriacao": "2025-10-16T12:10:00.000Z",
+        "DataAtualizacao": "2025-10-16T12:10:00.000Z"
+      }
+    }
+  ]
+}
+
